@@ -4,7 +4,7 @@ import BannerMain from './components/BannerMain';
 import Carousel from './components/Carousel';
 import Footer from './components/Footer';
 
-import dadosIniciais from './data/dados_iniciais.json';
+import dadosIniciais from './data/devJr.json';
 
 function App() {
   return (
@@ -14,7 +14,7 @@ function App() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+        videoDescription={"Esse foi nosso último metup realizado em Taubaté, onde reunimos cerca de 100 pessoas para falar de tecnologia."}
       />
 
       <Carousel
@@ -22,7 +22,7 @@ function App() {
         category={dadosIniciais.categorias[0]}
       />
 
-      <Carousel
+      {/* <Carousel
         category={dadosIniciais.categorias[1]}
       />
 
@@ -40,7 +40,7 @@ function App() {
 
       <Carousel
         category={dadosIniciais.categorias[5]}
-      />      
+      />       */}
 
       <Footer />
     </div>

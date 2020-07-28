@@ -1,45 +1,41 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
+      "titulo": "História de Dev",
+      "link": "https://www.youtube.com/watch?v=AbkDnbPAGl0&t=4s",
+      "cor": "#78f808",
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Como foi nosso último evento",
+          "url": "https://www.youtube.com/watch?v=AbkDnbPAGl0&t=4s"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Wharley Ornelas",
+          "url": "https://www.youtube.com/watch?v=EXKN2_VDVDA"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Michel Amaral",
+          "url": "https://www.youtube.com/watch?v=fLZTzCz6SnI"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Iglá Generoso",
+          "url": "https://www.youtube.com/watch?v=wyPRq4Hcse0"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Renzo Nuccitelli",
+          "url": "https://www.youtube.com/watch?v=I_Ae6Otb8oc&t=1s"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Van Ribeiro",
+          "url": "https://www.youtube.com/watch?v=HJj4FL8VuRU&t=2s"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Fred Peixoto",
+          "url": "https://www.youtube.com/watch?v=O7MXE3ik1mU&t=16s"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Tony Lâmpada",
+          "url": "https://www.youtube.com/watch?v=Na1cNFCg3zE"
         }        
       ]
     },
